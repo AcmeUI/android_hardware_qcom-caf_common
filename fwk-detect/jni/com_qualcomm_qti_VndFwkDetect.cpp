@@ -35,6 +35,7 @@
 #include <dlfcn.h>
 #include <string.h>
 #include <log/log.h>
+#include <utils/misc.h>
 
 #ifndef NELEM
 #define NELEM(x) ((int) (sizeof(x) / sizeof((x)[0])))
